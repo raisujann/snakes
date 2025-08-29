@@ -1,2 +1,2 @@
-# snakes
-Used for the major codes  to makes the some project.//
+# My first repository
+I am starting today a new repository of my new project//
